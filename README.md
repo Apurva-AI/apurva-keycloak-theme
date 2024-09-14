@@ -1,9 +1,9 @@
 # Apurva-keycloak-theme
-KeyCloak theme for Space
+KeyCloak theme for Apurva
 
 ## Prerequisite
 
-Clone the Space-Keycloak source project from "https://github.com/Apurva-AI/apurva-keycloak-theme.git" using branch "development".
+Clone the Apurva-Keycloak source project from "https://github.com/Apurva-AI/apurva-keycloak-theme.git" using branch "development".
 
 Use command **mvn clean install -DskipTests** to build the project.
 
@@ -26,8 +26,8 @@ Run the below command within the keycloak folder to start it.
 Copy the repository on your keyloak themes folder
 
 ```
-cd keycloak/themes/space
-git clone https://github.com/space-lex/space-keycloak-theme.git
+cd keycloak/themes/Apurva
+git clone https://github.com/Apurva-AI/apurva-keycloak-theme.git
 ```
 
 ## Preview
